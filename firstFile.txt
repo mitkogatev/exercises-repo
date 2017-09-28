@@ -26,3 +26,9 @@ I'm learning how to use GitHub;
 :END
 
 making change in Dev branch
+Now making changes in master branch;
+line 1;
+line 2
+master branch
+I'll comit and push to master,
+after that will test merging branches from bash
