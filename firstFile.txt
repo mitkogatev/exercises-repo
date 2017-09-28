@@ -12,5 +12,11 @@ dots>>>>
 .....................................
 {}!@####
 <<<< :P
+edit from bash without pull
+adding some content...
+string string="string";
+The orange is orane.
+Which is Which?
+END EDIT;
 Editing from web...
 test zx456
