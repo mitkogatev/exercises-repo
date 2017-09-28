@@ -26,3 +26,9 @@ I'm learning how to use GitHub;
 :END
 
 making change in Dev branch
+gitBash edit
+1
+2
+3....
+...
+678;
